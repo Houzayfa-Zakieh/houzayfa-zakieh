@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Houzayfa Zakieh
 
-<!--
-**Houzayfa-Zakieh/houzayfa-zakieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering Student** at the University of Aleppo and a **Frontend Web Developer** at Devmmnd. I focus on pure software engineering and love building fast, responsive, and modern web applications.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack & Skills
+- **Frontend:** React.js, Tailwind CSS, Vite, HTML5, CSS3, JavaScript
+- **Backend & Basics:** PHP, Node.js, C++
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Current Status
+- 🎓 Studying Computer Engineering at University of Aleppo.
+- 💻 Frontend Developer at Devmmnd.
+- 🚀 Open to Freelance projects and Frontend opportunities.
+
+------
+*Connect with me on [LinkedIn](https://linkedin.com) or via [Facebook](https://facebook.com).*
