@@ -1,16 +1,44 @@
-# Hi there 👋 I'm Houzayfa Zakieh
+# 👋 Hi, I'm Houzayfa Zakieh
 
-I am a **Computer Engineering Student** at the University of Aleppo and a **Frontend Web Developer** at Devmmnd. I focus on pure software engineering and love building fast, responsive, and modern web applications.
+### 🏆 My Dynamic GitHub Ranking
+* 🇸🇾 **Status:** Officially ranked among the most active GitHub developers in Syria.
+* 📈 **Live Ranking:** To view my current real-time position and compare it with other developers, click the verified badge below:
 
-### 🚀 Tech Stack & Skills
-- **Frontend:** React.js, Tailwind CSS, Vite, HTML5, CSS3, JavaScript
-- **Backend & Basics:** PHP, Node.js, C++
-- **Tools:** Git, GitHub
+<p align="left">
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/syria.md">
+    <img src="https://shields.io" alt="Syria GitHub Ranking" />
+  </a>
+</p>
 
-### 💼 Current Status
-- 🎓 Studying Computer Engineering at University of Aleppo.
-- 💻 Frontend Developer at Devmmnd.
-- 🚀 Open to Freelance projects and Frontend opportunities.
+---
 
-------
-*Connect with me on [LinkedIn](https://linkedin.com) or via [Facebook](https://facebook.com).*
+### 👨‍💻 About Me
+* 🚀 I am highly passionate about software development, building modern user interfaces, and web applications.
+* 🎓 I constantly work on upgrading my programming skills and staying up-to-date with the latest tech stack.
+* 🧠 I love solving algorithmic problems and contributing to open-source projects.
+
+---
+
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Vite" />
+  <img src="https://shields.io" alt="Tailwind CSS" />
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="C++" />
+</p>
+
+---
+
+### 📊 Live GitHub Stats
+*(These cards automatically update whenever you push new commits)*
+<p align="center">
+  <img src="https://vercel.app" alt="Houzayfa's Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📬 Connect With Me
+* 💼 **LinkedIn:** [Click here to visit my LinkedIn profile](https://linkedin.com)
+* 📧 **Email:** `YOUR_ACTUAL_EMAIL_HERE@gmail.com`
