@@ -41,4 +41,4 @@
 
 ### 📬 Connect With Me
 * 💼 **LinkedIn:** [Click here to visit my LinkedIn profile](https://linkedin.com)
-* 📧 **Email:** `YOUR_ACTUAL_EMAIL_HERE@gmail.com`
+* 📧 **Email:** `houzayfazakieh2005@gmail.com`
