@@ -5,7 +5,7 @@
 * 📈 **Live Ranking:** To view my current real-time position and compare it with other developers, click the verified badge below:
 
 <p align="left">
-  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/syria.md">
+  <a href="https://github.com">
     <img src="https://shields.io" alt="Syria GitHub Ranking" />
   </a>
 </p>
@@ -42,3 +42,4 @@
 ### 📬 Connect With Me
 * 💼 **LinkedIn:** [Click here to visit my LinkedIn profile](https://linkedin.com)
 * 📧 **Email:** `houzayfazakieh2005@gmail.com`
+* 
