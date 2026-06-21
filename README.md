@@ -31,7 +31,6 @@
 ---
 
 ### 📊 Live GitHub Stats
-*(These cards automatically update whenever you push new commits)*
 <p align="center">
   <img src="https://vercel.app" alt="Houzayfa's Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
