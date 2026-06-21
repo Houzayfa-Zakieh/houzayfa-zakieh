@@ -32,8 +32,7 @@
 
 ### 📊 Live GitHub Stats
 <p align="center">
-  <img src="https://workers.dev" alt="Houzayfa's Stats" width="48%" />
-  <img src="https://workers.dev" alt="Top Languages" width="48%" />
+  <img src="https://herokuapp.com" alt="Houzayfa's GitHub Streak" width="100%" />
 </p>
 
 ---
