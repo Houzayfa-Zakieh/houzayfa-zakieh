@@ -32,8 +32,8 @@
 
 ### 📊 Live GitHub Stats
 <p align="center">
-  <img src="https://vercel.app" alt="Houzayfa's Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+  <img src="https://workers.dev" alt="Houzayfa's Stats" width="48%" />
+  <img src="https://workers.dev" alt="Top Languages" width="48%" />
 </p>
 
 ---
