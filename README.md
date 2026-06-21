@@ -2,13 +2,8 @@
 
 ### 🏆 My Dynamic GitHub Ranking
 * 🇸🇾 **Status:** Officially ranked among the most active GitHub developers in Syria.
-* 📈 **Live Ranking:** To view my current real-time position and compare it with other developers, click the verified badge below:
-
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Syria GitHub Ranking" />
-  </a>
-</p>
+* 📈 **Live Ranking:** Click the verified text link below to view my real-time position and compare it with other developers in the official repository:
+* 🔗 **[Click Here to View My Live Syria Ranking](https://github.com)**
 
 ---
 
@@ -20,22 +15,7 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Vite" />
-  <img src="https://shields.io" alt="Tailwind CSS" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="C++" />
-</p>
-
----
-
-### 📊 Live GitHub Stats
-<p align="left">
-  <img src="https://shields.io" alt="Followers" />
-  <img src="https://shields.io" alt="Stars" />
-  <img src="https://shields.io" alt="Repo Size" />
-</p>
+* 💻 **Languages & Frameworks:** React | Vite | Tailwind CSS | Node.js | C++
 
 ---
 
