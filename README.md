@@ -22,4 +22,3 @@
 ### 📬 Connect With Me
 * 💼 **LinkedIn:** [Click here to visit my LinkedIn profile](https://linkedin.com)
 * 📧 **Email:** [houzayfazakieh2005@gmail.com](mailto:houzayfazakieh2005@gmail.com)
-* 
