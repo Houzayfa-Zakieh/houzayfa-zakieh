@@ -31,8 +31,10 @@
 ---
 
 ### 📊 Live GitHub Stats
-<p align="center">
-  <img src="https://herokuapp.com" alt="Houzayfa's GitHub Streak" width="100%" />
+<p align="left">
+  <img src="https://shields.io" alt="Followers" />
+  <img src="https://shields.io" alt="Stars" />
+  <img src="https://shields.io" alt="Repo Size" />
 </p>
 
 ---
