@@ -1,16 +1,12 @@
 <h1 align="center">👋 Hi, I'm Houzayfa Zakieh</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HouzayfaZakieh&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🏆 GitHub Activity Ranking
-- 🇸🇾 **Ranked among the most active developers in Syria**
-- 📊 **Live Ranking:**  
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/Live%20Syria%20Ranking-Click%20Here-blue?style=for-the-badge&logo=github" />
+- 🇸🇾 Ranked among the most active developers in Syria  
+- 📊 **Live Activity Overview:**  
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HouzayfaZakieh">
+    <img src="https://img.shields.io/badge/View%20My%20Live%20Activity-Click%20Here-blue?style=for-the-badge&logo=github" />
   </a>
 
 ---
@@ -32,7 +28,7 @@
 
 ### 🧩 Backend & Logic
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,cpp,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,cpp" />
 </p>
 
 ### 🛠️ Tools
