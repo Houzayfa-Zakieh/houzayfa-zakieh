@@ -33,7 +33,7 @@
 
 ### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" />
 </p>
 
 ---
@@ -55,5 +55,3 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
-
----
