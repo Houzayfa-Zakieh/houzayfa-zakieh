@@ -23,7 +23,7 @@
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,js,html,css" />
 </p>
 
 ### 🧩 Backend & Logic
