@@ -5,7 +5,7 @@
 ## 🏆 GitHub Activity Ranking
 - 🇸🇾 **Syria Ranking:**
   <p align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7AA2F7&width=435&lines=%F0%9F%87%B8%F0%9F%87%B6+One+of+the+top+developers+in+Syria+(%2315);Building+Modern+Web+Apps" alt="Syria Ranking Typist" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7AA2F7&width=435&lines=%F0%9F%87%B8%F0%9F%87%B6+Top+Active+Developer+in+Syria;Building+Modern+Web+Apps" alt="Syria Ranking Typist" />
   </p>
 - 📊 **Live Activity Summary:**
   <p align="center">
