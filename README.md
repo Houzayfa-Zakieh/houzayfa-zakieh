@@ -5,7 +5,7 @@
 ## 🏆 GitHub Activity Ranking
 - 🇸🇾 Ranked among the most active developers in Syria  
 - 📊 **Live Activity Overview:**  
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HouzayfaZakieh">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Houzayfa-Zakieh">
     <img src="https://img.shields.io/badge/View%20My%20Live%20Activity-Click%20Here-blue?style=for-the-badge&logo=github" />
   </a>
 
@@ -45,8 +45,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HouzayfaZakieh&show_icons=true&theme=tokyonight&include_all_commits=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HouzayfaZakieh&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Houzayfa-Zakieh&show_icons=true&theme=tokyonight&include_all_commits=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Houzayfa-Zakieh&theme=tokyonight" height="160" />
 </p>
 
 ---
