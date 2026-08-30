@@ -3,11 +3,15 @@
 ---
 
 ## 🏆 GitHub Activity Ranking
-- 🇸🇾 Ranked among the most active developers in Syria  
-- 📊 **Live Activity Overview:**  
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Houzayfa-Zakieh&theme=tokyonight" alt="Houzayfa Zakieh's GitHub Activity" />
+- 🇸🇾 **Syria Ranking:**
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7AA2F7&width=435&lines=%F0%9F%87%B8%F0%9F%87%B6+One+of+the+top+developers+in+Syria+(%2315);Building+Modern+Web+Apps" alt="Syria Ranking Typist" />
   </p>
+- 📊 **Live Activity Summary:**
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Houzayfa-Zakieh&theme=tokyonight" width="100%" alt="Houzayfa Zakieh Activity" />
+  </p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -37,15 +41,10 @@
 
 ---
 
-## 🚧 Currently Working On
-- 🔒 **OG-Sports** - Frontend Developer *(React, TypeScript, Tailwind CSS)*
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Houzayfa-Zakieh&show_icons=true&theme=tokyonight&include_all_commits=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Houzayfa-Zakieh&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Houzayfa-Zakieh&show_icons=true&theme=tokyonight&include_all_commits=true" height="160" alt="Houzayfa Zakieh Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Houzayfa-Zakieh&theme=tokyonight" height="160" alt="Houzayfa Zakieh Streak" />
 </p>
 
 ---
