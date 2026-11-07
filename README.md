@@ -26,7 +26,7 @@
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,vite,tailwind,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,vite,tailwind,bootstrap,js,html,css" />
 </p>
 
 ### 🧩 Backend & Logic
@@ -36,7 +36,7 @@
 
 ### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,cursor,postman,notion" />
 </p>
 
 ---
@@ -56,5 +56,8 @@
   </a>
   <a href="mailto:houzayfazakieh2005@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://wa.me/963950066850" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
   </a>
 </p>
