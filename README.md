@@ -36,9 +36,9 @@
 
 ### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,cursor,postman,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,notion" />
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" />
 </p>
-
 ---
 
 ## 📈 GitHub Stats
@@ -50,14 +50,17 @@
 ---
 
 ## 📬 Connect With Me
+
 <p>
   <a href="https://www.linkedin.com/in/houzayfa-zakieh-%D8%AD%D8%B0%D9%8A%D9%81%D8%A9-%D8%B2%D9%83%D9%8A%D9%87" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
+  
   <a href="mailto:houzayfazakieh2005@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
+  
   <a href="https://wa.me/963950066850" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" />
   </a>
 </p>
