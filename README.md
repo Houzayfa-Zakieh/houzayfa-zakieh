@@ -51,7 +51,7 @@
 
 ## 📬 Connect With Me
 <p>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/houzayfa-zakieh-%D8%AD%D8%B0%D9%8A%D9%81%D8%A9-%D8%B2%D9%83%D9%8A%D9%87" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:houzayfazakieh2005@gmail.com">
